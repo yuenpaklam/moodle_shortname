@@ -7,7 +7,7 @@
 
 - [question bank->import->import category and question bank->export->export category](https://github.com/yuenpaklam/moodle_shortname/blob/master/lib/questionlib.php) question_category_select_menu_jstree
 
-- [course->calendar->page title] (https://github.com/yuenpaklam/moodle_shortname/blob/master/calendar/view.php) $PAGE->set_title("$course->fullname: $strcalendar: $pagetitle");
+- [course->calendar->page title](https://github.com/yuenpaklam/moodle_shortname/blob/master/calendar/view.php) $PAGE->set_title("$course->fullname: $strcalendar: $pagetitle");
 
 - [Calendar left top corner selector] doing 
 
