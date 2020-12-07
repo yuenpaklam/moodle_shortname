@@ -1,0 +1,1 @@
+For the course short name in left nav bar , you can go to admin/settings.php?section=navigation to check the "Show course full names" checkbox
