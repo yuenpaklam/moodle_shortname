@@ -1,9 +1,0 @@
-left side nav bar
-question bank->questions->Select category course name
-question bank->import->import category
-question bank->export->export category
-Calendar left top corner 
-course->calendar->title
-
-$courseshortname
-$course->shortname
