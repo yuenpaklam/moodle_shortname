@@ -9,6 +9,5 @@
 
 - [course->calendar->page title](https://github.com/yuenpaklam/moodle_shortname/blob/master/calendar/view.php) $PAGE->set_title("$course->fullname: $strcalendar: $pagetitle");
 
-- [Calendar left top corner selector] doing 
-
+- [Calendar left top corner selector](https://github.com/yuenpaklam/moodle_shortname/blob/master/theme/remui/classes/core_calendar_renderer.php) $labeltext = format_string($course->fullname, true, array('context' => $coursecontext)); and $courses = calendar_get_default_courses($courseid, 'id, fullname');
 
